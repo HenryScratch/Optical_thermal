@@ -1,0 +1,9 @@
+[requires]
+nlohmann_json/3.10.5
+fmt/8.1.1
+spdlog/1.10.0
+lyra/1.6.0
+
+
+[generators]
+cmake
